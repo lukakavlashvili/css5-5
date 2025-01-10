@@ -162,10 +162,10 @@ main {
     gap: 16px;
 }
 
-.secondmain {
+/* .secondmain {
     display: flex;
     justify-content: center;
-}
+} */
 
 .topline {
     display: flex;
