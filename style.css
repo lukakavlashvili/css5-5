@@ -20,7 +20,7 @@ main {
 
 .fullcontainer {
     display: flex;
-    padding: 16px 200px;
+    padding: 16px ;
     justify-content: center;
     align-items: center;
     border-bottom: 1px solid #003004;
@@ -766,7 +766,7 @@ main {
 
 footer {
     display: flex;
-    padding: 40px 200px;
+    padding: 40px ;
     justify-content: center;
     align-items: flex-start;
     border-top: 1px solid #00FF1A;
